@@ -7,6 +7,7 @@ My LeetCode practice repository featuring Java solutions for DSA interview quest
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/0075-sort-colors) |
 | [1768-merge-strings-alternately](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
@@ -16,6 +17,7 @@ My LeetCode practice repository featuring Java solutions for DSA interview quest
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/0075-sort-colors) |
 | [3731-find-missing-elements](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -25,5 +27,14 @@ My LeetCode practice repository featuring Java solutions for DSA interview quest
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/0075-sort-colors) |
 | [3731-find-missing-elements](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/3731-find-missing-elements) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
