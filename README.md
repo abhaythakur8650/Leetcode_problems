@@ -18,6 +18,7 @@ My LeetCode practice repository featuring Java solutions for DSA interview quest
 | ------- |
 | [0016-3sum-closest](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/0075-sort-colors) |
+| [0209-minimum-size-subarray-sum](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [3731-find-missing-elements](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -37,4 +38,16 @@ My LeetCode practice repository featuring Java solutions for DSA interview quest
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
