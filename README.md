@@ -53,4 +53,12 @@ My LeetCode practice repository featuring Java solutions for DSA interview quest
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
+## Math
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
