@@ -23,6 +23,7 @@ My LeetCode practice repository featuring Java solutions for DSA interview quest
 | [0724-find-pivot-index](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/0904-fruit-into-baskets) |
 | [1109-corporate-flight-bookings](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/1109-corporate-flight-bookings) |
+| [1732-find-the-highest-altitude](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/1732-find-the-highest-altitude) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3731-find-missing-elements](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -62,6 +63,7 @@ My LeetCode practice repository featuring Java solutions for DSA interview quest
 | [0238-product-of-array-except-self](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/0724-find-pivot-index) |
 | [1109-corporate-flight-bookings](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/1109-corporate-flight-bookings) |
+| [1732-find-the-highest-altitude](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/1732-find-the-highest-altitude) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Math
 |  |
