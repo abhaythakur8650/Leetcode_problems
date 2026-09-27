@@ -13,6 +13,7 @@ My LeetCode practice repository featuring Java solutions for DSA interview quest
 |  |
 | ------- |
 | [1768-merge-strings-alternately](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/1768-merge-strings-alternately) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Array
 |  |
 | ------- |
@@ -26,12 +27,14 @@ My LeetCode practice repository featuring Java solutions for DSA interview quest
 | [1732-find-the-highest-altitude](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/1732-find-the-highest-altitude) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3731-find-missing-elements](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/0904-fruit-into-baskets) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3731-find-missing-elements](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -84,4 +87,8 @@ My LeetCode practice repository featuring Java solutions for DSA interview quest
 |  |
 | ------- |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+## Simulation
+|  |
+| ------- |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 <!---LeetCode Topics End-->
