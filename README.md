@@ -13,6 +13,7 @@ My LeetCode practice repository featuring Java solutions for DSA interview quest
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/0383-ransom-note) |
 | [1768-merge-strings-alternately](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/1768-merge-strings-alternately) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Array
@@ -34,6 +35,7 @@ My LeetCode practice repository featuring Java solutions for DSA interview quest
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/0383-ransom-note) |
 | [0904-fruit-into-baskets](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/0904-fruit-into-baskets) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -89,6 +91,7 @@ My LeetCode practice repository featuring Java solutions for DSA interview quest
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/0383-ransom-note) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhaythakur8650/Leetcode_problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Simulation
 |  |
